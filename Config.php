@@ -4,7 +4,7 @@
  */
 define("DB_HOST", "localhost");
 define("DB_USER", "blhagado_bryant");
-define("DB_PASSWORD", "Yellow5");
+*/password left out
 define("DB_DATABASE", "blhagado_carx");
 
 ?>
